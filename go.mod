@@ -1,3 +1,3 @@
-module piscine
+module main
 
 go 1.25.6
